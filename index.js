@@ -12,9 +12,9 @@ app.use(cors(
 ));
 
 // Constants
-const USER_ID = "john_doe_17091999";
-const EMAIL = "john@xyz.com";
-const ROLL_NUMBER = "ABCD123";
+const USER_ID = "ABCD";
+const EMAIL = "ABCD@gmail.com";
+const ROLL_NUMBER = "22BCS15150";
 
 // Utility functions
 const isAlphabet = (char) => /^[A-Za-z]$/.test(char);
